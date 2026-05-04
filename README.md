@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Riley McGregor
-- 👀 I’m interested in aviation and autonomous aerial systems.
-- 🌱 I’m currently studying Computer Engineering at SDSU.
-- 💞️ I’m looking to collaborate on projects that require the help of automation and machine learning.
-- ⚡ Fun fact: I'm a pilot 😎
+# Hi, I’m Riley McGregor
 
-<!---
-ConanMuir/ConanMuir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering student at San Diego State University focused on embedded systems, PCB design, aviation, and autonomous aerial systems.
+
+I build hardware and software for flight focused systems, including custom PCBs, sensor integration, real time embedded control, and data logging.
+
+## What I’m working on
+
+- Model rocket flight computer using a Teensy 4.1
+- Attitude estimation with MEKF and sensor fusion
+- GPS, barometer, and IMU based state estimation
+- Gain scheduled PID control for aerodynamic fin control
+- LoRa telemetry and onboard flight data logging
+- FPGA based communication systems
+- Custom PCB design, bring up, and debugging
+
+## Interests
+
+- Autonomous aerial systems
+- Flight computers and avionics
+- Embedded systems
+- PCB design
+- Control systems
+- FPGA development
+- Machine learning for automation
+
+## Open to collaborating on
+
+Projects involving embedded hardware, autonomous systems, aerospace, robotics, telemetry, controls, or machine learning applied to real world systems.
+
+## Fun fact
+
+I’m a pilot working toward my commercial pilot license.
